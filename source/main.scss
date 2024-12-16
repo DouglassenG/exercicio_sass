@@ -1,0 +1,10 @@
+@use 'config/reset';
+@use 'config/cores';
+@use 'secoes/products';
+
+body {
+    background-color: cores.$corSecundaria;
+}
+
+
+
